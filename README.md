@@ -1,13 +1,8 @@
-# Horiseon
+# Horiseon Search Engine Optimization
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+My motivation for this project was to learn how to consolidate CSS which allows me to have a more concise code, and also learn how to use Semantics properly. Through this project, I learned how to properly structure an HTML and how to consolidate CSS to make sure my code is more readable and practical. 
 
 ## Table of Contents (Optional)
 
