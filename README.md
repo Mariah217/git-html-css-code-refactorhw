@@ -1,4 +1,4 @@
-# Horiseon Search Engine Optimization
+# Horiseon-Search Engine Optimization
 
 ## Description
 
@@ -13,16 +13,11 @@ My motivation for this project was to learn how to consolidate CSS which allows 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-
+To visit the webpage, please select the "Click for Live Link" under Usage.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-
-<a href="https://mariah217.github.io/git-html-css-code-refactorhw/"> Click for live link</a>
+<a href="https://mariah217.github.io/git-html-css-code-refactorhw/"> Click for Live Link</a>
 <br>
 <br>
 ![alt text](assets/images/Capture.PNG)
