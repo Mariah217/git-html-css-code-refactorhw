@@ -9,6 +9,7 @@ My motivation for this project was to learn how to consolidate CSS which allows 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Credits](#credits)
 - [License](#license)
 
 ## Installation
@@ -21,6 +22,10 @@ To visit the webpage, please select the "Click for Live Link" under Usage.
 <br>
 <br>
 ![alt text](assets/images/Capture.PNG)
+
+## Credits
+
+https://www.w3schools.com/tags/att_img_alt.asp
 
 
 ## License
